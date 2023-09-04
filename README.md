@@ -2,7 +2,7 @@
 #### I am a Developer
 ![I am a Developer](https://i.ibb.co/PcMCw0R/CALEEM1212.png)
 
-I am a developer who has been coding for over 4 years now. I mainly use python.
+I am currently 17 years old and have been coding for nearly 4 years now. I mainly use Python as its fun.
 
 Skills: Python/GO/JSON/HTML/CSS/JS
 
