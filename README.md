@@ -2,9 +2,9 @@
 #### I am a Developer
 ![I am a Developer](https://i.ibb.co/PcMCw0R/CALEEM1212.png)
 
-I am currently 18 years old and have been coding for nearly 4 years now. I mainly use Python as its fun.
+I am currently 19 years old and have been coding for nearly 5 years now.
 
-Skills: Python/GO/JSON/HTML/CSS/JS
+Skills: Python/GO/JSON/HTML/CSS/JS/C++/C/lua
 
 - 🔭 I’m currently working on Central City RP Discord Bot 
 - 🌱 I’m currently learning GoLang 
